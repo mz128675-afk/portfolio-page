@@ -1,0 +1,25 @@
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.hero {
+  padding: 80px 0;
+  background: #f4f6fb;
+}
+
+.hero h1 {
+  font-weight: 700;
+}
+
+.skill-card {
+  transition: transform 0.2s ease;
+}
+
+.skill-card:hover {
+  transform: translateY(-4px);
+}
+
+section h2 {
+  margin-bottom: 20px;
+  font-weight: 700;
+}
